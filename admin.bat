@@ -1,1 +1,1 @@
-c:\catia\B29\win_b64\code\bin\CNEXT.exe -admin -env c:\catia\CatEnv\CATIA_P3.V5-6R2019.B29.txt
+C:\CATIA\Catia_V5R32\win_b64\code\bin\CNEXT.exe -admin -env "C:\CATIA\CATIA_Settings\CAT_Env\CATIA_P3.V5-6R2022.B32.txt" -direnv "C:\CATIA\CATIA_Settings\CAT_Env\"
